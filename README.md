@@ -22,4 +22,4 @@ Name of feature: Weather
 
 Estimate of time needed to complete: 2 hours
 
-Actual time needed to complete: 2:15 hours.
+Actual time needed to complete:  hours.
