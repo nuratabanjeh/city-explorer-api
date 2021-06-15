@@ -24,8 +24,8 @@ server.get("/weather", (req, res) => {
 
     let result = "";
     if (
-        lat == weatherData.lat &&
-        lon == weatherData.lon &&
+        lat == weatherData.lat ||
+        lon == weatherData.lon ||
         searchQuery == weatherData.city_name
     ) {
         result = weatherData.data;
