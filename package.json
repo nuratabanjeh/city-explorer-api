@@ -1,7 +1,7 @@
 {
   "name": "city-explorer-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Author: Nura Tabanjeh",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,21 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nadeen-Shuweihat/city-explorer-api.git"
+    "url": "git+https://github.com/nuratabanjeh/city-explorer-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nadeen-Shuweihat/city-explorer-api/issues"
+    "url": "https://github.com/nuratabanjeh/city-explorer-api/issues"
   },
-  "homepage": "https://github.com/Nadeen-Shuweihat/city-explorer-api#readme",
+  "homepage": "https://github.com/nuratabanjeh/city-explorer-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "cros": "^1.0.1",
-    "dot": "^1.1.3",
     "dotenv": "^10.0.0",
-    "env": "^0.0.2",
     "express": "^4.17.1"
   }
 }
